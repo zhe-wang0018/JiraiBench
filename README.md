@@ -2,7 +2,7 @@
 
 [Paper](https://arxiv.org/abs/2503.21679) | [Dataset Request Form](https://forms.office.com/r/jYBsXf07t1)
 
-[Yunze XIAO](https://algoroxyolo.github.io/)<sup>1<sup>★</sup></sup>, Tingyu HE<sup>2<sup>★</sup></sup>, [Lionel Z. WANG](https://zhe-wang0018.github.io/)<sup>3<sup>★</sup>†</sup>, Yiming MA<sup>3</sup>, Xingyu SONG<sup>4</sup>, Xiaohang XU<sup>4</sup>, [Irene LI]((https://ireneli.eu/))<sup>4,<sup>※</sup></sup>, [Ka Chung NG](https://polyu-mm-boris-ng.github.io/)<sup>3,<sup>※</sup></sup>
+[Yunze XIAO](https://algoroxyolo.github.io/)<sup>1<sup>★</sup></sup>, Tingyu HE<sup>2<sup>★</sup></sup>, [Lionel Z. WANG](https://zhe-wang0018.github.io/)<sup>3<sup>★</sup>†</sup>, Yiming MA<sup>3</sup>, Xingyu SONG<sup>4</sup>, Xiaohang XU<sup>4</sup>, [Irene LI](https://ireneli.eu/)<sup>4,<sup>※</sup></sup>, [Ka Chung NG](https://polyu-mm-boris-ng.github.io/)<sup>3,<sup>※</sup></sup>
 
 <sup>1</sup>Carnegie Mellon University<br>
 <sup>2</sup>University of Washington<br>
