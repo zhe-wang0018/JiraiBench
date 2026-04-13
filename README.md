@@ -1,6 +1,6 @@
 # JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community
 
-[Paper]([https://arxiv.org/abs/2503.21679](https://aclanthology.org/2026.eacl-long.23/)) | [Dataset Request Form](https://forms.office.com/r/jYBsXf07t1)
+[Paper](https://aclanthology.org/2026.eacl-long.23/) | [Dataset Request Form](https://forms.office.com/r/jYBsXf07t1)
 
 This paper is published on EACL 2026.
 
